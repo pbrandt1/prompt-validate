@@ -1,0 +1,14 @@
+{
+  "name": "prompt-validate",
+  "version": "1.0.0",
+  "description": "validate user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Brandt <peter.m.brandt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.1.4"
+  }
+}
